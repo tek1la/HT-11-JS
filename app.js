@@ -19,7 +19,7 @@ let tasks = function () {
 
     let square = number ** 2;
 
-    alert(square);
+    alert(`Ваше число у квадраті ${square}`);
 
     // Task 2
   } else if (whatTask == "2") {
